@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/epicmonkey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://epicmonkey.org
+  * I am epicmonkey (https://keybase.io/epicmonkey) on keybase.
+  * I have a public key ASCJ6SHe3Pn_-GpAOjs_33KNFI5tQsPusBRySIJl16gwcQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101aae3ab8944e73a838f1889d11f154aa6f4e85ec1e3567406d557f6559f0fbb350a",
+            "host": "keybase.io",
+            "kid": "012089e921dedcf9fff86a403a3b3fdf728d148e6d42c3eeb01472488265d7a830710a",
+            "uid": "d70c675fae434db835507d42c0fb8a19",
+            "username": "epicmonkey"
+        },
+        "service": {
+            "hostname": "epicmonkey.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1469761148,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1469761075,
+        "hash": "429c08f7794ce1a860f133387f0afa4873ab397cbe967a1d68065552c5cf2e11305509795101970d27b0c2574ff8b9c25cea4ebf6928d9e33f02783ccb181187",
+        "seqno": 547535
+    },
+    "prev": "998a1a83db503f9f6aeb19d79aa1b579c436dd65fec0de1b4fc6bd31ae69fa33",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiekh3tz5//hqQDo7P99yjRSObULD7rAUckiCZdeoMHEKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYWFlM2FiODk0NGU3M2E4MzhmMTg4OWQxMWYxNTRhYTZmNGU4NWVjMWUzNTY3NDA2ZDU1N2Y2NTU5ZjBmYmIzNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODllOTIxZGVkY2Y5ZmZmODZhNDAzYTNiM2ZkZjcyOGQxNDhlNmQ0MmMzZWViMDE0NzI0ODgyNjVkN2E4MzA3MTBhIiwidWlkIjoiZDcwYzY3NWZhZTQzNGRiODM1NTA3ZDQyYzBmYjhhMTkiLCJ1c2VybmFtZSI6ImVwaWNtb25rZXkifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImVwaWNtb25rZXkub3JnIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2OTc2MTE0OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY5NzYxMDc1LCJoYXNoIjoiNDI5YzA4Zjc3OTRjZTFhODYwZjEzMzM4N2YwYWZhNDg3M2FiMzk3Y2JlOTY3YTFkNjgwNjU1NTJjNWNmMmUxMTMwNTUwOTc5NTEwMTk3MGQyN2IwYzI1NzRmZjhiOWMyNWNlYTRlYmY2OTI4ZDllMzNmMDI3ODNjY2IxODExODciLCJzZXFubyI6NTQ3NTM1fSwicHJldiI6Ijk5OGExYTgzZGI1MDNmOWY2YWViMTlkNzlhYTFiNTc5YzQzNmRkNjVmZWMwZGUxYjRmYzZiZDMxYWU2OWZhMzMiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECY29hX84jKM1Fo55CV++hGis4E5+mS8AASK71r+fmYd/09mG3IuPv64jMBj5Hf5hoE7Y1PMh1s4qqnWpyK5NQMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgxJZRBQTQ03yPT01Vl8TQDv7vz+kMJyW1t/RhKdl4uvyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/epicmonkey
+
+==================================================================
